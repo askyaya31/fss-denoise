@@ -1,0 +1,10 @@
+cover,skenario,PSNR,F1_det
+data/4.2.01.tiff,D_0255,30.79,100.0
+data/4.2.01.tiff,D_C15,30.05,98.18
+data/4.2.01.tiff,D_union,30.79,100.0
+data/4.2.05.tiff,D_0255,33.6,100.0
+data/4.2.05.tiff,D_C15,37.04,99.94
+data/4.2.05.tiff,D_union,33.6,100.0
+data/4.2.07.tiff,D_0255,33.98,100.0
+data/4.2.07.tiff,D_C15,32.79,96.61
+data/4.2.07.tiff,D_union,33.98,100.0
